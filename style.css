@@ -67,10 +67,6 @@ body {
     background: #fff;
     width: 100vw;
     overflow-x: hidden;
-    scroll-snap-type:y mandatory;
-}
-body .section{
-    scroll-snap-align: center;
 }
 
 .container {
